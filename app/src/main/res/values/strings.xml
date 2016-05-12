@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DT</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="getYZM">获取验证码</string>
+    <string name="sendYZM">输入验证码</string>
+    <string name="load">注册</string>
+    <string name="pwd">密码</string>
+    <string name="phonenum">手机号</string>
+</resources>
